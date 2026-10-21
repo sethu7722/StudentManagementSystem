@@ -18,3 +18,4 @@ A simple web application to manage student details.
 
 ## How to Run
 Open index.html in a web browser.
+Project version control is maintained using Git and GitHub.
